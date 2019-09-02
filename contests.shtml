@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="eng" lang="eng">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+  <meta http-equiv="keywords" content="Festival News, event magazine of the Tampere Film Festival in March 2008, a course production of students of journalism, photojournalism and translation studies at the University of Tampere"/>
+  <meta http-equiv="description" content="Festival News, magazine of the Tampere Film Festival in March 2008, comes out twice in print(ISSN 0785-9619) and on the web(ISSN 1239-3428) during the festival from 5th to 9th of March 2008."/>
+  
+  <title>Festival News March 5th 2008</title>
+  <link rel="stylesheet" href="tyyli.css" type="text/css"/>
+</head>
+
+<body><div id="sivu">
+
+<div id="otsikko">
+	<a href="index.shtml"><img src="taustat/etusivu_eng.gif" alt="Festival News 2008 - Tampereen 38. elokuvajuhlien verkkolehti" /></a>
+</div>
+
+<div id="paavalikko">
+   <ul>
+	<li><a style="color: #d9763d;" href="contests.shtml">Contests</a></li>
+	<li><a href="special.shtml">Special programs</a></li>
+	<li><a href="music.shtml">Music</a></li>
+	<li><a href="columns.shtml">Columns</a></li>
+	<li><a href="other.shtml">Other stuff</a></li>
+   </ul>
+   <ul>
+	<li><a href="links.shtml">Links</a></li>
+	<li><a href="tampere_eng.shtml">Tampere</a></li>
+	<li><a href="archive.shtml">Archive</a></li>
+	<li><a href="staff.shtml">Staff</a></li>
+	<li><a href="contact.shtml">Contact</a></li>
+   </ul>
+   <ul>
+	<li><a href="http://www.tamperefilmfestival.fi/"><img src="taustat/festivaalilogo.gif" alt="Tampere Film Festival" /></a></li>
+	<li><a href="http://www.tamperefilmfestival.fi/2008/eng/program.htm">Program map</a></li>
+   </ul>
+</div>
+
+
+<div id="ylavalikko">
+   <ul>
+	<li><a href="index_eng.shtml">Main page</a> &nbsp; </li>
+	<li> &nbsp; <a href="index.shtml">Suomeksi</a></li>
+   </ul>
+</div>
+
+
+<div id="juttu">
+<h1 class="etusivu"><a href="37458.shtml">Kovatasoisessa kilpailussa palkittavia elokuvia enemmän kuin palkintoja</a></h1>
+<p class="etusivu">Kansainvälisen kilpailun taso oli hyvin korkea etenkin fiktiosarjassa, ja elokuvien aihevalikoima oli tänä vuonna poikkeuksellisen monipuolinen. Viisihenkinen raati punnitsi valintaa yhdeksän tuntia, ja valitsi pääpalkinnon Grand Prix:n voittajaksi saksalaisen <b>Michaela Kezele</b> elokuvan <i>Milan</i> (2006). </p>
+
+<h2 class="etusivu"><a href="37460.shtml">Saameyössä musiikkia joiusta räppiin</a></h2>
+<!-- ISO KUVA ALKAA TÄSTÄ. SEN LEVEYS ON 400 -->
+<div class="isokuva">
+<img src="kuvat/Wimmevoittaja.jpg" alt="Wimme Saari lavalla"  width="400" class="isokuva" />
+<!-- kuvateksti tähän -->
+<p class="kuvateksti">Wimme Saari lavalla.
+</p>
+</div>
+<!-- ISO KUVA PÄÄTTYY TÄHÄN -->
+
+<!-- ISO KUVA ALKAA TÄSTÄ. SEN LEVEYS ON 400 -->
+<div class="pikkukuvaoikea">
+<img src="kuvat/kannykkakuvitus.jpg" alt=""  width="200" class="pikkukuvaeikehys" />
+<!-- kuvateksti seuraavan komennon jälkeen -->
+<p class="kuvateksti">
+
+</p>
+</div>
+<!-- ISO KUVA PÄÄTTYY TÄHÄN -->
+
+<h2 class="etusivu"><a href="37450.shtml">Elokuva on elämys myös kännykästä kurkittuna</a></h2>
+
+<p class="etusivu">Uudet multimediapuhelimet alkavat jo olla kelvollisia elokuvien katselulaitteita. Matkapuhelinvalmistaja Nokian tutkimusjohtaja <b>Juha Kaarion </b>mukaan viihdekeskukseksi suunniteltu kännykkä kilpailee kirjan kanssa ihmisten ajankäytöstä.
+</p>
+
+<h2 class="etusivu"><a href="37375.shtml">Historian solmukohdat kiinnostavat nuoria ohjaajia</a></h2>
+
+<p class="etusivu">Puolalainen <b>Anna Kazejak-Dawid</b> ja suomalainen <b>Zaida Bergroth</b> katsoivat toistensa lyhytelokuvat.
+
+</p>
+
+<p class="etusivu">
+
+</p>
+
+<p class="paivitetty">Updated <!--#config timefmt="%d %B %Y %k:%M"--><!--#echo var="LAST_MODIFIED"--></p>
+
+</div>
+
+<div id="juttuvalikko">
+    <!--#include virtual="fresh.txt"-->
+</div> 
+
+</div></body>
+
+</html>

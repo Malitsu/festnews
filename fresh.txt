@@ -1,0 +1,7 @@
+   <ul>
+	<li><h2>Contests:</h2><a href="37458.shtml">Kovatasoisessa kilpailussa palkittavia elokuvia oli enemmän kuin palkintoja</a></li>
+	<li><h2>Special programs:</h2><a href="37458.shtml">Kovatasoisessa kilpailussa palkittavia elokuvia oli enemmän kuin palkintoja</a></li>
+	<li><h2>Music:</h2><a href="37458.shtml">Kovatasoisessa kilpailussa palkittavia elokuvia oli enemmän kuin palkintoja</a></li>
+	<li><h2>Columns:</h2><a href="37458.shtml">Kovatasoisessa kilpailussa palkittavia elokuvia oli enemmän kuin palkintoja</a></li>
+	<li><h2>Other stuff:</h2><a href="37458.shtml">Kovatasoisessa kilpailussa palkittavia elokuvia oli enemmän kuin palkintoja</a></li>
+   </ul>

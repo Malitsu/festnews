@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fi" lang="fi">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+  <meta http-equiv="keywords" content="Festival News, Tampereen elokuvajuhlien tapahtumalehti, tekijöinä toimittajakoulutuksen opiskelijoita maaliskuussa 2008">
+  <meta http-equiv="description" content="Festival News, Tampereen elokuvajuhlien lehti, ilmestyy painettuna (ISSN 0785-9619) ja verkossa (ISSN 1239-3428) kaksi kertaa 5.-9.3.2008.">
+
+    <title>Festival News 5.3.2008</title>
+  <link rel="stylesheet" href="tyyli.css" type="text/css"/>
+</head>
+
+<body><div id="sivu">
+
+<div id="otsikko">
+	<a href="index.shtml"><img src="taustat/etusivu.gif" alt="Festival News 2008 - Tampereen 38. elokuvajuhlien verkkolehti" /></a>
+</div>
+
+<div id="paavalikko">
+   <ul>
+	<li><a href="kilpailut.shtml">Kilpailut</a></li>
+	<li><a href="erikois.shtml">Erikoisohjelmat</a></li>
+	<li><a href="musiikki.shtml">Musiikki</a></li>
+	<li><a href="kolumnit.shtml">Kolumnit</a></li>
+	<li><a href="muuta.shtml">Muuta Filkkareilta</a></li>
+   </ul>
+   <ul>
+	<li><a href="linkit.shtml">Linkit</a></li>
+	<li><a href="tampere.shtml">Tampere</a></li>
+	<li><a href="arkisto.shtml">Arkisto</a></li>
+	<li><a href="toimitus.shtml">Toimitus</a></li>
+	<li><a style="color: #d9763d;" href="palaute.shtml">Palaute</a></li>
+   </ul>
+   <ul>
+        <li><a href="http://www.tamperefilmfestival.fi/"><img src="taustat/festivaalilogo.gif" alt="Tampereen elokuvajuhlat" /></a></li>
+	<li><a href="http://www.tamperefilmfestival.fi/2008/fin/ohjelmakartta.htm">Ohjelmakartta</a></li>
+   </ul>
+</div>
+
+
+<div id="ylavalikko">
+   <ul>
+	<li><a href="index.shtml">Etusivu</a> &nbsp; </li>
+	<li> &nbsp; <a href="index_eng.shtml">In English</a></li>
+   </ul>
+</div>
+
+
+<div id="juttu">
+
+<h1>Palautetta Festival Newsille</h1>
+
+
+<form METHOD=POST ACTION="http://www.uta.fi/cgi-bin/mailaa?festnews@uta.fi">                  
+
+<p>Voit jättää palautetta Festival Newsin painetusta- ja verkkoversiosta tai elokuvajuhlista.</p>
+
+<p>Mitä palautteesi koskee?<br/>
+<INPUT TYPE="radio" NAME="k1" VALUE="Verkko">Verkko-Festival Newsia<br/> 
+<INPUT TYPE="radio" NAME="k1" VALUE="Painettu">Painettua Festival Newsia<br/>
+<INPUT TYPE="radio" NAME="k1" VALUE="Molemmat">Molempia<br/>
+<INPUT TYPE="radio" NAME="k1" VALUE="Elokuvajuhlia">Elokuvajuhlia
+</p>
+                                                                                                                                            
+<p>
+Palautteeni aiheena on<br>
+<input type="text" size="60" name="Aihe">
+</p>
+
+<p>
+Palautteeni<br/>
+<textarea name="Palauteteksti" rows="10" cols="55"></textarea>
+</p>
+
+<p>
+Nimeni (vapaaehtoinen)<br/>
+<input type="text" size=60 name="Lahettaja">
+</p>
+
+<p>
+Sähköpostini tai puhelinnumeroni (vapaaehtoinen)<br/>
+<input type="text" size=60 name="Yhteystiedot">
+</p>
+
+<p><INPUT TYPE="radio" NAME="k1" VALUE="Nimella">Palautteeni saa julkaista Festival Newsin sivulla omalla nimelläni<br/> 
+<INPUT TYPE="radio" NAME="k1" VALUE="Nimimerkilla">Palautteeni saa julkaista Festival Newsin sivulla nimimerkillä<br/>
+<INPUT TYPE="radio" NAME="k1" VALUE="Ei julki">Palautteeni jääköön toimituksen tietoon.
+</p>
+
+<p>
+<input type="submit" value="&nbsp;Lähetä&nbsp;" name="laheta">
+<input type="submit" value="Peruuta" name="peruuta">
+</p>
+
+</form>
+</div>
+
+</body>
+
+</html>

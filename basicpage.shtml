@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="eng" lang="eng">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+  <meta http-equiv="keywords" content="Festival News, event magazine of the Tampere Film Festival in March 2008, a course production of students of journalism, photojournalism and translation studies at the University of Tampere"/>
+  <meta http-equiv="description" content="Festival News, magazine of the Tampere Film Festival in March 2008, comes out twice in print(ISSN 0785-9619) and on the web(ISSN 1239-3428) during the festival from 5th to 9th of March 2008."/>
+  
+  <title>Festival News March 5th 2008</title>
+  <link rel="stylesheet" href="tyyli.css" type="text/css"/>
+</head>
+
+<body><div id="sivu">
+
+<div id="otsikko">
+	<a href="index.shtml"><img src="taustat/etusivu_eng.gif" alt="Festival News 2008 - Tampereen 38. elokuvajuhlien verkkolehti" /></a>
+</div>
+
+<div id="paavalikko">
+   <ul>
+	<li><a href="contests.shtml">Contests</a></li>
+	<li><a href="special.shtml">Special programs</a></li>
+	<li><a style="color: #d9763d;" href="music.shtml">Music</a></li>
+	<li><a href="columns.shtml">Columns</a></li>
+	<li><a href="other.shtml">Other stuff</a></li>
+   </ul>
+   <ul>
+	<li><a href="links.shtml">Links</a></li>
+	<li><a href="tampere_eng.shtml">Tampere</a></li>
+	<li><a href="archive.shtml">Archive</a></li>
+	<li><a href="staff.shtml">Staff</a></li>
+	<li><a href="contact.shtml">Contact</a></li>
+   </ul>
+   <ul>
+	<li><a href="http://www.tamperefilmfestival.fi/"><img src="taustat/festivaalilogo.gif" alt="Tampere Film Festival" /></a></li>
+	<li><a href="http://www.tamperefilmfestival.fi/2008/eng/program.htm">Program map</a></li>
+   </ul>
+</div>
+
+
+<div id="ylavalikko">
+   <ul>
+	<li><a href="index_eng.shtml">Main page</a> &nbsp; </li>
+	<li> &nbsp; <a href="index.shtml">Suomeksi</a></li>
+   </ul>
+</div>
+
+
+<div id="juttu">
+
+<h1>
+Young directors are fascinated by points of conflict 
+</h1>
+<!-- Kirjoittaja & kuvaaja seuraavaan -->
+<p id="tekija">Elisa Rimaila, text<br>Tytti Pohjola, translation<br>Hannele Salmi, pictures<br>
+</p>
+
+<!-- ISO KUVA ALKAA TÄSTÄ. SEN LEVEYS ON 400 -->
+<div class="isokuva">
+<img src="kuvat/37320_.jpg" alt="Anna Kazejak-Dawid and Zaida Bergroth"  width="400" class="isokuva" />
+<!-- kuvateksti tähän -->
+<p class="kuvateksti">Anna Kazejak-Dawid (on the left) and Zaida Bergroth concentrate on social issues in their films.
+</p>
+</div>
+<!-- ISO KUVA PÄÄTTYY TÄHÄN -->
+
+
+<p></p><p>Two women sit still in their chairs, wearing headphones. Both look at a tv-monitor where a film is playing. The credits roll, but the women's expressions remain fixed. The screens go blank and both lay their headphones on the table. </p><p>&ndash;&nbsp;It's almost scary to notice we've both made a film about virtually the same topic, says Polish film maker <b>Anna Kazejak-Dawid</b>. <b>Zaida Bergroth</b> from Finland agrees. </p><p>The women have just viewed each other's short films. </p><p>They are approximately the same age. Kazejak-Dawid studied directing in Lodz Film School and Bergroth did the same in the University of Art and Design (TaiK) in Helsinki. Both are interested in telling stories about children and teenagers. </p><p>According to Kazejak-Dawid, studying in the prestigious Lodz Film School is quite tough. Only a handful of students are accepted into the school each year. There's no time to slack around, because those who do not perform up to the standards will be expelled from the school. </p><div class="faktatoikea">
+
+<h2><ul class="faktat">Screenings<p></h2>
+<li class="faktat">Polish Film Schools 1: Plevna 6, Sat March 10th at 22:00 </li>
+<li class="faktat">Polish Film Schools 2: Plevna 5, Sat March 10th at 18:00 </li>
+<li class="faktat">Karabasz & Kieslowski 1: Tullikamari, Sat. March 10th at 14:00 </li>
+<li class="faktat">Finnish Competition 9: Plevna 2, Sat. March 10th at 12:00 </li>
+</ul>
+</div>
+<p>&ndash;&nbsp;The time spent studying there made me the person I am today, both as a film maker and a person. At that time, the film school was the most important experience of my life, says Kazejak-Dawid, who is now the mother of a little boy. </p><p>The director myth built around directors such as of <b>Krzysztof Kieslowski</b> has traditionally had a very important role in Polish film culture. When communism died away in Poland around 1989, the social and political regard for film directors lessened considerably. According to Bergroth, Finnish education has put more and more emphasis on the collaboration of directors, producers and scriptwriters. </p><p>The shadows of Kieslowski and many other distinguished directors still hover in the corridors of Lodz Film School and the students are urged to take up weighty social issues. </p><p>&ndash;&nbsp;A director cannot hide behind her own art and excellence, if she is to capture something real, Kazejak-Dawid says. </p><p>In Finland there's no similar weight of tradition and TaiK currently operates much like a production company. Neither of the two directors feels pressure to make art. </p><p>&ndash;&nbsp;You can't start making a film and think you're going to make art. The process has to come from the heart, Bergroth says. </p>
+
+<div class="linkkimuualla">
+	<h2 class="linkkimuualla">Lodz Film School</h2>
+		<a href="http://www.filmschool.lodz.pl">www.filmschool.lodz.pl</a></p>
+</div>
+
+<p class="paivitetty">Updated <!--#config timefmt="%d %B %Y %k:%M"--><!--#echo var="LAST_MODIFIED"--></p>
+
+</div>
+
+<div id="juttuvalikko">
+    <!--#include virtual="fresh.txt"-->
+</div> 
+
+</div></body>
+
+</html>

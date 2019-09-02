@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="eng" lang="eng">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+  <meta http-equiv="keywords" content="Festival News, event magazine of the Tampere Film Festival in March 2008, a course production of students of journalism, photojournalism and translation studies at the University of Tampere"/>
+  <meta http-equiv="description" content="Festival News, magazine of the Tampere Film Festival in March 2008, comes out twice in print(ISSN 0785-9619) and on the web(ISSN 1239-3428) during the festival from 5th to 9th of March 2008."/>
+  
+  <title>Festival News March 5th 2008</title>
+  <link rel="stylesheet" href="tyyli.css" type="text/css"/>
+</head>
+
+<body><div id="sivu">
+
+<div id="otsikko">
+	<a href="index.shtml"><img src="taustat/etusivu_eng.gif" alt="Festival News 2008 - Tampereen 38. elokuvajuhlien verkkolehti" /></a>
+</div>
+
+<div id="paavalikko">
+   <ul>
+	<li><a href="contests.shtml">Contests</a></li>
+	<li><a href="special.shtml">Special programs</a></li>
+	<li><a href="music.shtml">Music</a></li>
+	<li><a href="columns.shtml">Columns</a></li>
+	<li><a href="other.shtml">Other stuff</a></li>
+   </ul>
+   <ul>
+	<li><a href="links.shtml">Links</a></li>
+	<li><a href="tampere_eng.shtml">Tampere</a></li>
+	<li><a style="color: #d9763d;" href="archive.shtml">Archive</a></li>
+	<li><a href="staff.shtml">Staff</a></li>
+	<li><a href="contact.shtml">Contact</a></li>
+   </ul>
+   <ul>
+	<li><a href="http://www.tamperefilmfestival.fi/"><img src="taustat/festivaalilogo.gif" alt="Tampere Film Festival" /></a></li>
+	<li><a href="http://www.tamperefilmfestival.fi/2008/eng/program.htm">Program map</a></li>
+   </ul>
+</div>
+
+
+<div id="ylavalikko">
+   <ul>
+	<li><a href="index_eng.shtml">Main page</a> &nbsp; </li>
+	<li> &nbsp; <a href="index.shtml">Suomeksi</a></li>
+   </ul>
+</div>
+
+
+<div id="juttu">
+
+<table  width="95%" border="0" cellspacing="2" cellpadding="4">
+	<tr>
+		<!-- Row 1 Column 1 -->
+		<td >
+			<a href="http://www.uta.fi/festnews/fn97/arkisto96/"><img src="arkistokuvat/1996.jpg" alt=""><br>
+1996</a>
+		</td>
+		<!-- Row 1 Column 2 -->
+		<td >
+			<a href="http://www.uta.fi/festnews/fn97/frontp.htm"><img src="arkistokuvat/1997.jpg" alt=""><br>
+1997</a>
+		</td>
+		<!-- Row 1 Column 3 -->
+		<td >
+			<a href="http://www.uta.fi/festnews/fn98/homepage.htm"><img src="arkistokuvat/1998.jpg" alt=""><br>
+1998</a>
+		</td>
+		<!-- Row 1 Column 4 -->
+		<td >
+			<a href="http://www.uta.fi/festnews/fn99/engsu.htm"><img src="arkistokuvat/1999.jpg" alt=""><br>
+1999</a>
+		</td>
+	</tr>
+	<tr>
+		<!-- Row 2 Column 1 -->
+		<td >
+			<a href="http://www.uta.fi/festnews/fn2000/eindex.htm"><img src="arkistokuvat/2000.jpg" alt=""><br>
+2000</a>
+		</td>
+		<!-- Row 2 Column 2 -->
+		<td >
+			<a href="http://www.uta.fi/festnews/fn2001/en/sun/"><img src="arkistokuvat/2001.jpg" alt=""><br>
+2001</a>
+		</td>
+		<!-- Row 2 Column 3 -->
+		<td >
+			<a href="http://www.uta.fi/festnews/fn2002/eng/sun/index.html"><img src="arkistokuvat/2002.jpg" alt=""><br>
+2002</a>
+		</td>
+		<!-- Row 2 Column 4 -->
+		<td >
+			<a href="http://www.uta.fi/festnews/fn2003/sunday/sunday.html"><img src="arkistokuvat/2003.jpg" alt=""><br>
+2003</a>
+		</td>
+	</tr>
+	<tr>
+		<!-- Row 3 Column 1 -->
+		<td >
+			<a href="http://www.uta.fi/festnews/fn2004/sunday/"><img src="arkistokuvat/2004.jpg" alt=""><br>
+2004</a>
+		</td>
+		<!-- Row 3 Column 2 -->
+		<td >
+			<a href="http://www.uta.fi/festnews/fn2005/sunday/index.shtml"><img src="arkistokuvat/2005.jpg" alt=""><br>
+2005</a>
+		</td>
+		<!-- Row 3 Column 3 -->
+		<td >
+		<a href="http://www.uta.fi/festnews/fn2006/sunday/index.shtml"><img src="arkistokuvat/2006.jpg" alt=""><br>
+2006</a>
+	
+		</td>
+		<!-- Row 3 Column 4 -->
+		<td >
+		
+		</td>
+	</tr>
+</table>
+
+</div></body>
+
+</html>
